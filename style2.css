@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(213, 208, 208);
+}
+.container{
+    margin-top: 80px;
+}
+.underWeight{
+    color: blue;
+}
+.normalWeight{
+    color: green;
+}
+.overWeight{
+    color: red;
+}
